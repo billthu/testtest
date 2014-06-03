@@ -1,0 +1,7 @@
+.btn.btn-primary {
+	color: black;
+	background: red;
+}
+.panel.panel-primary > .panel-heading {
+	background-color: red;
+}
