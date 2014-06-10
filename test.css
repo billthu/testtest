@@ -1,7 +1,19 @@
+/************** widget customation ****************/
+.panel.panel-primary {
+	
+}
+	.panel.panel-primary > .panel-heading {
+		background-color: red;	
+	}
+		.panel.panel-primary > .panel-title {
+			font-size: 30px;
+		}
+		
+	.panel-body {
+		
+	}
+
 .btn.btn-primary {
 	color: white;
 	background: red;
-}
-.panel.panel-primary > .panel-heading {
-	background-color: red;
 }
